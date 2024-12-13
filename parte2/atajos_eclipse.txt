@@ -1,0 +1,30 @@
+Navegar entre las pestañas (archivos) abiertas:
+
+Ctrl + Tab: Cambia a la pestaña siguiente.
+Ctrl + Shift + Tab: Cambia a la pestaña anterior.
+Comentar líneas o bloques de líneas:
+
+Ctrl + /: Comentar o descomentar una línea seleccionada.
+Ctrl + Shift + /: Comentar o descomentar un bloque de líneas seleccionadas.
+Ir a un número de línea:
+
+Ctrl + L: Abre un cuadro de diálogo en el que puedes ingresar el número de línea y presionar Enter para ir a esa línea.
+Cerrar el archivo actual:
+
+Ctrl + F4: Cierra el archivo actualmente seleccionado.
+Cerrar todos los archivos:
+
+Ctrl + Shift + F4: Cierra todos los archivos abiertos en la vista de editor.
+Buscar y/o reemplazar:
+
+Ctrl + F: Abre el cuadro de diálogo de búsqueda. Para reemplazar, selecciona la opción correspondiente.
+Ctrl + H: Abre el cuadro de diálogo de reemplazo.
+Formatear el código (arreglar tabulaciones/indentado):
+
+Ctrl + Shift + F: Alinea y formatea automáticamente el código según las convenciones de codificación establecidas.
+Borrar una línea completa:
+
+Ctrl + D: Elimina la línea actual donde el cursor está posicionado.
+Mostrar las sugerencias del código escrito:
+
+Ctrl + Espacio: Muestra las sugerencias automáticas y los métodos disponibles para las variables o clases.

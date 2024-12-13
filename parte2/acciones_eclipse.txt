@@ -1,0 +1,68 @@
+1. Cambiar de workspace
+Accede al menú principal de Eclipse.
+Ve a File > Switch Workspace > Other....
+Selecciona un nuevo directorio de workspace o crea uno nuevo donde desees trabajar.
+Haz clic en OK para cambiar al nuevo workspace.
+
+
+2. Generar código automáticamente (constructores, getters o setters)
+Eclipse tiene una función llamada "Generate" que permite crear automáticamente constructores, getters, setters, equals, hashcode, y otros elementos comunes de código.
+
+Para crear constructores, getters, setters:
+Haz clic derecho en la clase donde deseas generar el código.
+Selecciona "Source > Generate".
+Marca las opciones deseadas (constructor, getter, setter) y haz clic en OK.
+Atajos de teclado:
+Alt + Shift + S y luego selecciona C para crear un constructor.
+Alt + Shift + S y selecciona G para generar un getter.
+Alt + Shift + S y selecciona S para generar un setter.
+
+
+3. Mostrar el terminal
+Abre Eclipse y asegúrate de que tu proyecto esté seleccionado.
+Ve a la parte inferior de la ventana de Eclipse, justo arriba de la barra de estado.
+Haz clic derecho y selecciona "Show View" > "Terminal".
+También puedes abrir el terminal rápido con Ctrl + Alt + T.
+
+
+4. Renombrar una variable en todo el proyecto (refactorizar)
+Eclipse permite renombrar una variable en todas las instancias de manera automática.
+
+Haz clic derecho sobre la variable que deseas renombrar.
+Selecciona "Refactor > Rename".
+Escribe el nuevo nombre y confirma. Eclipse buscará y cambiará automáticamente todas las instancias de la variable en el proyecto.
+
+
+5. Acceder a los ajustes generales de Eclipse
+Ve a "Window" en el menú principal.
+Selecciona "Preferences" (en Linux/Windows) o "Preferences > General" (en Mac).
+Aquí podrás modificar configuraciones generales, como apariencia, tipografía, accesibilidad, editor de texto, entre otros.
+
+
+6. Cambiar el tema de Eclipse
+Accede a los ajustes generales:
+Window > Preferences (o Eclipse > Preferences en Mac).
+Dirígete a General > Appearances > Colors and Fonts.
+Aquí puedes seleccionar temas preconfigurados como Dark, Light, etc., o personalizar colores para elementos específicos del editor.
+
+
+7. Cambiar los colores del terminal
+Ve a "Window > Preferences".
+Selecciona "General > Appearance > Colors and Fonts".
+Selecciona "Text Display" en la lista de categorías a la izquierda.
+Desplázate hacia abajo y selecciona "Terminal Text".
+Elige un color para la fuente, fondo, o enlaces siguiendo las opciones proporcionadas por Eclipse.
+
+
+8. Comprobar si hay actualizaciones de Eclipse
+Ve a "Help" en el menú principal.
+Selecciona "Eclipse IDE" > "Check for Updates...".
+Eclipse buscará automáticamente actualizaciones disponibles.
+Instala las actualizaciones encontradas siguiendo las instrucciones en pantalla.
+
+
+9. Instalar un plugin en Eclipse
+Ve a "Help > Eclipse Marketplace".
+Escribe el nombre del plugin que deseas buscar (por ejemplo, "Maven Integration", "JUnit", etc.).
+Selecciona el plugin de la lista de resultados y haz clic en "Install".
+Sigue las instrucciones del instalador y reinicia Eclipse si es necesario.

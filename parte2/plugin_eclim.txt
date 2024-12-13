@@ -1,0 +1,12 @@
+Características principales:
+
+1. Integración con Vim y otros editores: Eclim permite a los usuarios utilizar un editor como Vim o Emacs para trabajar con el código fuente mientras Eclipse maneja las características avanzadas como la compilación, la verificación de errores y las sugerencias de autocompletado.
+
+
+2. Soporte para herramientas de Eclipse: Eclim incluye soporte para navegación por el código, autocompletado de código, refactorización y depuración.
+
+
+3. Mínima configuración necesaria: El plugin es fácil de configurar y utiliza Eclim como servidor de integración para comunicarse con Eclipse, reduciendo así la necesidad de modificar directamente el código de Eclipse.
+
+
+4. Soporte multiplataforma: Es compatible con Windows, Linux y Mac, lo que lo hace accesible para todos los usuarios de Eclipse independientemente de su sistema operativo.

@@ -1,0 +1,3 @@
+Me parece bastante interesante cuando se esta trabajando en equipo, o necesitas utilizar el código desde cualquier parte, no necesitas una aplicación instalada en el dispositivo para tener las ventajas de un IDE. 
+
+Pero a mi personalmente me gusta más en aplicación, ya que al tener que programar diariamente tiene más ventajas.
